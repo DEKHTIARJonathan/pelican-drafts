@@ -64,7 +64,7 @@ setup(
     author='Axel Haustant',
     author_email='noirbizarre+github@gmail.com',
     packages=find_packages(),
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     include_package_data=True,
     install_requires=install_requires,
     setup_requires=setup_requires,
